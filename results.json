@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Refrigerantes",
+        "description": "Pesquisa de mercado sobre refrigerantes",
+        "date": "2022-04-01T18:55:18.704294Z",
+        "questions": [
+            {
+                "text": "Com que frequência você consome refrigerantes de cola?",
+                "alternatives": [
+                    "Muita",
+                    "Pouca",
+                    "Nunca"
+                ],
+                "date": "2022-04-01T18:55:43.149084Z"
+            },
+            {
+                "text": "Com que frequência você consome refrigerantes de laranja?",
+                "alternatives": [
+                    "Muita",
+                    "Pouca",
+                    "Nunca"
+                ],
+                "date": "2022-04-01T18:55:43.149231Z"
+            },
+            {
+                "text": "Com que frequência você consome refrigerantes de limão?",
+                "alternatives": [
+                    "Muita",
+                    "Pouca",
+                    "Nunca"
+                ],
+                "date": "2022-04-01T18:55:43.149325Z"
+            }
+        ]
+    }
+]
